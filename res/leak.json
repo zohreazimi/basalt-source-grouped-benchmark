@@ -1,0 +1,22 @@
+{
+ "n_dup_id_rows": 205,
+ "n_dup_ids": 90,
+ "dup_ids_diff_class": 14,
+ "dup_ids_diff_ref": 45,
+ "n_refs": 787,
+ "median_per_ref": 4.0,
+ "max_per_ref": 335,
+ "refs_ge50": 34,
+ "share_in_refs_ge50": 0.3705534658785599,
+ "refs_multi_class": 13,
+ "random": {
+  "nn_same_ref": 0.6269747447608812,
+  "nn_same_label": 0.9272434175174638,
+  "test_with_ref_in_train": 0.9705534658785598
+ },
+ "grouped": {
+  "nn_same_ref": 0.0,
+  "nn_same_label": 0.7944017288823295,
+  "test_with_ref_in_train": 0.0
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "n_pairs": 118,
+ "pairs_diff_code": 111,
+ "pairs_cross_db": 95,
+ "pairs_diff_label": 15,
+ "samples_in_pairs": 236,
+ "samples_in_diffcode_pairs": 222,
+ "median_major_diff": 0.10999999999999943,
+ "label_pairs": {
+  "IOAB|BABB": 12,
+  "OIB|MORB": 3
+ },
+ "top_code_pairs": {
+  "[19104] <-> SANO, 2012": 79,
+  "[12634] <-> [15464]": 9,
+  "[15516] <-> TAMURA, 2011": 8,
+  "[12036] <-> [15189]": 6,
+  "[13619] <-> HAASE, 2009": 3,
+  "[14052] <-> TOLLSTRUP, 2010": 1,
+  "[15971] <-> [16901]": 1,
+  "[19104] / [19107] <-> SANO, 2012": 1,
+  "[10567] / [21396] <-> BEIER, 2008": 1,
+  "[12941] <-> BEIER, 2008": 1,
+  "[12941] / [21396] <-> BEIER, 2008": 1
+ },
+ "grouped_test_with_dup_in_train": 210
+}
